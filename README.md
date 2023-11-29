@@ -18,9 +18,9 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rucoh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rucoh_" height="30" width="40" /></a>
-<a href="https://fb.com/alperenhoçur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alperenhoçur" height="30" width="40" /></a>
+<a href="[https://fb.com/alperenhoçur](https://www.facebook.com/profile.php?id=100008406435789)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alperenhoçur" height="30" width="40" /></a>
 <a href="https://instagram.com/alperenhocur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alperenhocur" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@rucoh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@rucoh" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/c/@rucoh](https://www.youtube.com/channel/UC60aDzVAV1VjC-908YqJcyQ)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@rucoh" height="30" width="40" /></a>
 <a href="https://discord.gg/8cDtyp3T3p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="8cDtyp3T3p" height="30" width="40" /></a>
 </p>
 
