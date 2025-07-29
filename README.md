@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.hizliresim.com/l7y9ddu.jpg"  />
+
 
 ###
 
