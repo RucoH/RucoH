@@ -15,8 +15,6 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=RucoH.RucoH&right_color=limegreen"  />
 </div>
-###
-###
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
