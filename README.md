@@ -15,6 +15,9 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=RucoH.RucoH&right_color=limegreen"  />
 </div>
+
+
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -31,7 +34,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
 </div>
 
-###
 
 <div align="center">
   <a href="www.instagram.com/alperenhcr" target="_blank">
@@ -47,13 +49,13 @@
     <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />
   </a>
 </div>
-###
+
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/RucoH/RucoH/output/snake.svg" alt="Snake animation" />
 
-###
+
 
 <div align="center">
   <a href="https://open.spotify.com/user/r127hbvus0fgmdtuno2o513pv">
@@ -61,4 +63,4 @@
   </a>
 </div>
 
-###
+
